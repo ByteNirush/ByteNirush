@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science and Software Engineering student with a strong interest in software development and problem-solving. My goal is to apply my technical knowledge to build efficient, reliable, and innovative software solutions.  <br><br>I’m seeking opportunities in software engineering where I can contribute to impactful projects, collaborate with experienced professionals, and continue developing my technical and analytical skills.  <br><br>I am particularly interested in full-stack development, backend engineering, and scalable system design.<br>
+I am a **Computer Science and Software Engineering** student with a strong interest in software development and problem-solving. My goal is to apply my technical knowledge to build efficient, reliable, and innovative software solutions.  <br><br>I’m seeking opportunities in software engineering where I can contribute to impactful projects, collaborate with experienced professionals, and continue developing my technical and analytical skills.  <br><br>I am particularly interested in full-stack development, backend engineering, and scalable system design.<br>
 
 
 ## 🌐 Socials:
